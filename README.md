@@ -15,25 +15,25 @@
 
 <ul style="padding: 0; margin: 0; list-style: none; display: flex; align-items: center;">
     <li>
-        <a target="_blank" href="https://nodejs.org/en/"><img alt="node" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #333; border-radius: 10px;" src="./icons/node.svg"></a>
+        <a target="_blank" href="https://nodejs.org/en/"><img alt="node" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #333; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://deno.land/"><img alt="deno" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: white; border-radius: 10px;" src="./icons/deno.svg"></a>
+        <a target="_blank" href="https://deno.land/"><img alt="deno" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: white; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img alt="javascript" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #f7df1e; border-radius: 10px;" src="./icons/javascript.svg"></a>
+        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img alt="javascript" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #f7df1e; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://www.typescriptlang.org/"><img alt="typescript" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #007acc; border-radius: 10px;" src="./icons/typescript.svg"></a>
+        <a target="_blank" href="https://www.typescriptlang.org/"><img alt="typescript" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #007acc; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://reactjs.org/"><img alt="react" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #20232a; border-radius: 10px;" src="./icons/react.svg"></a>
+        <a target="_blank" href="https://reactjs.org/"><img alt="react" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #20232a; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://redux.js.org/"><img alt="redux" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #242526; border-radius: 10px;" src="./icons/redux.svg"></a>
+        <a target="_blank" href="https://redux.js.org/"><img alt="redux" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #242526; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg"></a>
     </li>
     <li>
-        <a target="_blank" href="https://expressjs.com/"><img alt="express" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #fff; border-radius: 10px;" src="./icons/express.svg"></a>
+        <a target="_blank" href="https://expressjs.com/"><img alt="express" width="30em" height="30em" style="margin: 0 0.5em; padding: 0.5em; background: #fff; border-radius: 10px;" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg"></a>
     </li>
 </ul>
 
