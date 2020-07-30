@@ -13,26 +13,32 @@
 
 #### Technologies I use the most
 
-<code>
-    <a target="_blank" href="https://nodejs.org/en/"><img alt="node" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://deno.land/"><img alt="deno" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img alt="javascript" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://www.typescriptlang.org/"><img alt="typescript" width="30em" height="30em"src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://reactjs.org/"><img alt="react" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://redux.js.org/"><img alt="redux" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg"></a>
-</code>
-<code>
-    <a target="_blank" href="https://expressjs.com/"><img alt="express" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg"></a>
-</code>
+<a target="_blank" href="https://nodejs.org/en/">
+    <img alt="node" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg">
+</a>
+
+<a target="_blank" href="https://deno.land/">
+    <img alt="deno" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg">
+</a>
+
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <img alt="javascript" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg">
+</a>
+
+<a target="_blank" href="https://www.typescriptlang.org/">
+    <img alt="typescript" width="30em" height="30em"src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg">
+</a>
+
+<a target="_blank" href="https://reactjs.org/">
+    <img alt="react" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg">
+</a>
+
+<a target="_blank" href="https://redux.js.org/">
+    <img alt="redux" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg">
+</a>
+
+<a target="_blank" href="https://expressjs.com/">
+    <img alt="express" width="30em" height="30em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg">
+</a>
 
 <code>// more awesome things coming soon!</code>
