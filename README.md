@@ -6,49 +6,59 @@
 
 ### Hey, I'm hSel3triK! 👋
 
-<p>Hello, my name is Pedro, I'm Portuguese 🇵🇹 and am currently a 16-year-old student, passionate about coding (and gaming).</p>
+<p>Hello, my name is Pedro, I'm Portuguese 🇵🇹 and I am currently a 16-year-old student, passionate about coding (and gaming).</p>
 
--   🎯 My main focus is JavaScript and its entire ecosystem.
+-   🎯 My main focus (but not my only one) is JavaScript and its entire ecosystem.
 -   💭 I'm looking forward to collaborating more with the open-source community and to learn deeper about programming.
 
 #### Favourite languages
 
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-    <img alt="javascript" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg">
-</a>
-
 <a target="_blank" href="https://www.typescriptlang.org/">
-    <img alt="typescript" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg">
+    <img alt="typescript" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg">
 </a>
 
 <a target="_blank" href="https://docs.microsoft.com/en-gb/dotnet/csharp/">
-    <img alt="csharp" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/csharp.svg">
+    <img alt="csharp" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/csharp.svg">
 </a>
 
 <a target="_blank" href="https://docs.microsoft.com/en-gb/cpp/?view=vs-2019">
-    <img alt="cplusplus" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg">
+    <img alt="cplusplus" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg">
 </a>
 
 #### Favourite technologies
 
-<a target="_blank" href="https://nodejs.org/en/">
-    <img alt="node" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg">
+<a target="_blank" href="https://deno.land/">
+    <img alt="deno" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg">
 </a>
 
-<a target="_blank" href="https://deno.land/">
-    <img alt="deno" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg">
+<a target="_blank" href="https://nodejs.org/en/">
+    <img alt="node" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg">
 </a>
 
 <a target="_blank" href="https://reactjs.org/">
-    <img alt="react" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg">
+    <img alt="react" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg">
 </a>
 
 <a target="_blank" href="https://redux.js.org/">
-    <img alt="redux" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg">
+    <img alt="redux" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg">
 </a>
 
 <a target="_blank" href="https://expressjs.com/">
-    <img alt="express" width="50em" height="50em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg">
+    <img alt="express" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg">
+</a>
+
+#### Interested in learning
+
+<a target="_blank" href="https://golang.org/">
+    <img alt="golang" height="35em" src="./icons/golang.svg">
+</a>
+
+<a target="_blank" href="https://www.rust-lang.org/">
+    <img alt="rust" height="35em" src="./icons/rust.svg">
+</a>
+
+<a target="_blank" href="https://firebase.google.com/">
+    <img alt="firebase" height="35em" src="./icons/firebase.svg">
 </a>
 
 <code>// more awesome things coming soon!</code>
