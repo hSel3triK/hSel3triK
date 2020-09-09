@@ -21,11 +21,11 @@
     <img alt="csharp" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/csharp.svg">
 </a>
 
-<a target="_blank" href="https://docs.microsoft.com/en-gb/cpp/?view=vs-2019">
-    <img alt="cplusplus" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg">
-</a>
-
 #### Favourite technologies
+
+<a target="_blank" href="https://mongodb.com/">
+    <img alt="mongodb" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/mongodb.svg">
+</a>
 
 <a target="_blank" href="https://deno.land/">
     <img alt="deno" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg">
@@ -47,14 +47,20 @@
     <img alt="express" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg">
 </a>
 
+#### Basic knowledge about
+
+<a target="_blank" href="https://docs.microsoft.com/en-gb/cpp/?view=vs-2019">
+    <img alt="cplusplus" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg">
+</a>
+
+<a target="_blank" href="https://rust-lang.org/">
+    <img alt="rust" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/rust.svg">
+</a>
+
 #### Interested in learning
 
 <a target="_blank" href="https://golang.org/">
     <img alt="golang" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/golang.svg">
-</a>
-
-<a target="_blank" href="https://www.rust-lang.org/">
-    <img alt="rust" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/rust.svg">
 </a>
 
 <a target="_blank" href="https://firebase.google.com/">
