@@ -50,15 +50,15 @@
 #### Interested in learning
 
 <a target="_blank" href="https://golang.org/">
-    <img alt="golang" height="35em" src="./icons/golang.svg">
+    <img alt="golang" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/golang.svg">
 </a>
 
 <a target="_blank" href="https://www.rust-lang.org/">
-    <img alt="rust" height="35em" src="./icons/rust.svg">
+    <img alt="rust" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/rust.svg">
 </a>
 
 <a target="_blank" href="https://firebase.google.com/">
-    <img alt="firebase" height="35em" src="./icons/firebase.svg">
+    <img alt="firebase" height="35em" src="https://github.com/hSel3triK/hSel3triK/raw/master/icons/firebase.svg">
 </a>
 
 <code>// more awesome things coming soon!</code>
