@@ -1,6 +1,6 @@
-`[![hSel3triK's stats" src=(https://github-readme-stats.vercel.app/api?username=hSel3triK&show_icons=true&line_height=30&icon_color=1374EF&title_color=000&text_color=696969" />
+[![Pedro Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hSel3triK&show_icons=true&line_height=30&icon_color=1374EF&title_color=000&text_color=696969)]
 
-<i><small>Made by (https://github.com/anuraghazra">@anuraghazra</small></i>
+<i><small>Made by [@anuraghazra](https://github.com/anuraghazra)</small></i>
 
 <hr />
 
@@ -16,40 +16,40 @@
 
 #### Favourite stuff 💓
 
-`[![typescript](https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg)](https://www.typescriptlang.org)`
+<code>[![typescript](https://github.com/hSel3triK/hSel3triK/raw/master/icons/typescript.svg)](https://www.typescriptlang.org)</code>
 
-`[![mongodb](https://github.com/hSel3triK/hSel3triK/raw/master/icons/mongodb.svg)](https://mongodb.com)`
+<code>[![mongodb](https://github.com/hSel3triK/hSel3triK/raw/master/icons/mongodb.svg)](https://mongodb.com)</code>
 
-`[![deno](https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg)](https://deno.land)`
+<code>[![deno](https://github.com/hSel3triK/hSel3triK/raw/master/icons/deno.svg)](https://deno.land)</code>
 
-`[![node](https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg)](https://nodejs.org/en)`
+<code>[![node](https://github.com/hSel3triK/hSel3triK/raw/master/icons/node.svg)](https://nodejs.org/en)</code>
 
-`[![react](https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg)](https://reactjs.org)`
+<code>[![react](https://github.com/hSel3triK/hSel3triK/raw/master/icons/react.svg)](https://reactjs.org)</code>
 
-`[![redux](https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg)](https://redux.js.org)`
+<code>[![redux](https://github.com/hSel3triK/hSel3triK/raw/master/icons/redux.svg)](https://redux.js.org)</code>
 
-`[![express](https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg)](https://expressjs.com)`
+<code>[![express](https://github.com/hSel3triK/hSel3triK/raw/master/icons/express.svg)](https://expressjs.com)</code>
 
 #### Liked things ✨
 
-`[![javascript](https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/javascript)`
+<code>[![javascript](https://github.com/hSel3triK/hSel3triK/raw/master/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/javascript)</code>
 
-`[![csharp](https://github.com/hSel3triK/hSel3triK/raw/master/icons/csharp.svg)](https://docs.microsoft.com/en-gb/dotnet/csharp)`
+<code>[![csharp](https://github.com/hSel3triK/hSel3triK/raw/master/icons/csharp.svg)](https://docs.microsoft.com/en-gb/dotnet/csharp)</code>
 
-`[![java](https://github.com/hSel3triK/hSel3triK/raw/master/icons/java.svg)](https://java.com)`
+<code>[![java](https://github.com/hSel3triK/hSel3triK/raw/master/icons/java.svg)](https://java.com)</code>
 
-`[![rust](https://github.com/hSel3triK/hSel3triK/raw/master/icons/rust.svg)](https://rust-lang.org)`
+<code>[![rust](https://github.com/hSel3triK/hSel3triK/raw/master/icons/rust.svg)](https://rust-lang.org)</code>
 
 #### Trivial knowledge about 🤓
 
-`[![cplusplus](https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg)](https://docs.microsoft.com/en-gb/cpp/?view=vs-2019)`
+<code>[![cplusplus](https://github.com/hSel3triK/hSel3triK/raw/master/icons/cplusplus.svg)](https://docs.microsoft.com/en-gb/cpp/?view=vs-2019)</code>
 
-`[![ruby](https://github.com/hSel3triK/hSel3triK/raw/master/icons/ruby.svg)](https://ruby-lang.org)`
+<code>[![ruby](https://github.com/hSel3triK/hSel3triK/raw/master/icons/ruby.svg)](https://ruby-lang.org)</code>
 
-`[![golang](https://github.com/hSel3triK/hSel3triK/raw/master/icons/golang.svg)](https://golang.org)`
+<code>[![golang](https://github.com/hSel3triK/hSel3triK/raw/master/icons/golang.svg)](https://golang.org)</code>
 
 #### On my to-learn list 💡
 
-`[![haskell](https://github.com/hSel3triK/hSel3triK/raw/master/icons/haskell.svg)](https://haskell.org)`
+<code>[![haskell](https://github.com/hSel3triK/hSel3triK/raw/master/icons/haskell.svg)](https://haskell.org)</code>
 
-`[![firebase](https://github.com/hSel3triK/hSel3triK/raw/master/icons/firebase.svg)](https://firebase.google.com)`
+<code>[![firebase](https://github.com/hSel3triK/hSel3triK/raw/master/icons/firebase.svg)](https://firebase.google.com)</code>
