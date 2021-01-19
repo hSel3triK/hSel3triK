@@ -5,8 +5,8 @@
 hi, i'm Pedro, a 16-year-old portuguese student passionate about coding.
 
 - i love 🐶 dogs, 🍕 pizza, 🎶 music, 🏋️‍♂️ hitting the gym, 🎮 gaming and 💻 programming
-- my plans on the future include 💰 freelancing and 📈 investing
-- my 🎯 main focus includes javascript, rust and their ecosystems
+- my plans on the future include 💰 freelancing, 📈 investing and learning the 🎸 electric guitar
+- my 🎯 main focus includes mainly javascript, rust, c and their ecosystems
 - i'm looking forward to 💬 collaborating more with the open source community and to 💡 learn more about programming
 
 ### 📖 programming
@@ -16,7 +16,7 @@ here are some technologies i find interesting and might have some knowledge abou
 ```
 | technology                 | interest     | knowledge (in my perspective) |
 | -------------------------- | ------------ | ----------------------------- |
-| rust                       | [██████████] | [███████...]                  |
+| rust                       | [██████████] | [████████..]                  |
 | typescript                 | [████████..] | [█████████.]                  |
 | javascript / nodejs / deno | [█████.....] | [███████...]                  |
 | react                      | [████████..] | [███████...]                  |
@@ -24,7 +24,7 @@ here are some technologies i find interesting and might have some knowledge abou
 | express                    | [████████..] | [██████....]                  |
 | csharp                     | [████......] | [███.......]                  |
 | java                       | [███.......] | [████......]                  |
-| cplusplus                  | [█████.....] | [██........]                  |
+| c/cplusplus                | [███████...] | [█████.....]                  |
 | golang                     | [███████...] | [█████.....]                  |
 | haskell                    | [████████..] | [..........]                  |
 | firebase                   | [████......] | [..........]                  |
